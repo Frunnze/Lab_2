@@ -20,6 +20,6 @@ The defined objects and the logic they implement:
 - insurance department;
   - shows the types of insurance;
 - credit department;
-  - show the types of credits the customer can take;
+  - shows the types of credits the customer can take;
 - investment department;
-  - show the types of investments a person can make.
+  - shows the types of investments a person can make.
