@@ -12,7 +12,7 @@ The defined objects and the logic they implement:
 - reception;
   - serves the customers;
 - queue ticket machine;
-  - give a ticket with a number;
+  - gives a ticket with a number;
 - currency exchange window;
   - changes money in dollars or euros;
 - customer department;
