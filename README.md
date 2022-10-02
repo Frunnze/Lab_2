@@ -8,7 +8,7 @@ The defined objects and the logic they implement:
 - employee;
   - serves the customers;
 - atm;
-  - give money;
+  - gives money;
 - reception;
   - serves the customers;
 - queue ticket machine;
